@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\QuadTree\\QuadTree\\QuadTree.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\QuadTree\\QuadTree\\QuadTree\\QuadTree.csproj",
       "projectName": "QuadTree",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\QuadTree\\QuadTree\\QuadTree.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\QuadTree\\QuadTree\\QuadTree\\QuadTree.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\QuadTree\\QuadTree\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\QuadTree\\QuadTree\\QuadTree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
