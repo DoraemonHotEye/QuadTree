@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\QuadTree\QuadTree\bin\Debug\netcoreapp3.1\QuadTree.exe
+C:\Users\USER\source\repos\QuadTree\QuadTree\bin\Debug\netcoreapp3.1\QuadTree.deps.json
+C:\Users\USER\source\repos\QuadTree\QuadTree\bin\Debug\netcoreapp3.1\QuadTree.runtimeconfig.json
+C:\Users\USER\source\repos\QuadTree\QuadTree\bin\Debug\netcoreapp3.1\QuadTree.runtimeconfig.dev.json
+C:\Users\USER\source\repos\QuadTree\QuadTree\bin\Debug\netcoreapp3.1\QuadTree.dll
+C:\Users\USER\source\repos\QuadTree\QuadTree\bin\Debug\netcoreapp3.1\QuadTree.pdb
+C:\Users\USER\source\repos\QuadTree\QuadTree\obj\Debug\netcoreapp3.1\QuadTree.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\QuadTree\QuadTree\obj\Debug\netcoreapp3.1\QuadTree.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\QuadTree\QuadTree\obj\Debug\netcoreapp3.1\QuadTree.AssemblyInfo.cs
+C:\Users\USER\source\repos\QuadTree\QuadTree\obj\Debug\netcoreapp3.1\QuadTree.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QuadTree\QuadTree\obj\Debug\netcoreapp3.1\QuadTree.dll
+C:\Users\USER\source\repos\QuadTree\QuadTree\obj\Debug\netcoreapp3.1\QuadTree.pdb
+C:\Users\USER\source\repos\QuadTree\QuadTree\obj\Debug\netcoreapp3.1\QuadTree.genruntimeconfig.cache
